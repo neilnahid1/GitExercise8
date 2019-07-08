@@ -1,2 +1,3 @@
 updated file1
 meanwhile, your other team pushed a new feature on master.
+another feature was added by your teammate.
